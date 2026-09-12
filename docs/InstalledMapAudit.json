@@ -1,0 +1,66 @@
+{
+  "scope": "Static read-only resource tests, NOT in-game seed replay or complete engine reverse engineering",
+  "mewgenics": {
+    "archive_entries": 19979,
+    "level_files": 2361,
+    "distinct_level_file_hashes": 2344,
+    "level_header_dimensions": {
+      "v2 10x10": 2357,
+      "v1 10x10": 4
+    },
+    "alley_easy_files": 109,
+    "chapter_configuration_count": 22,
+    "grass_weights_from_config": {
+      "GrassTile": 80,
+      "TallGrassTile": 15,
+      "BlankTile": 5
+    },
+    "matches_existing_backup": {
+      "data/maps/alley.gon": true,
+      "data/tiles.gon": true,
+      "levels/alley/easy/101.lvl": true
+    }
+  },
+  "into_the_breach": {
+    "map_files": 376,
+    "dimensions": {
+      "8x8": 376
+    },
+    "tags": {
+      "generic": 195,
+      "any_sector": 178,
+      "sand": 66,
+      "mountain": 61,
+      "water": 49,
+      "acid": 47,
+      "snow": 46,
+      "satellite": 40,
+      "train": 31,
+      "tide": 27,
+      "disposal": 26,
+      "grass": 26,
+      "volcano": 24,
+      "dam": 24,
+      "filler": 20,
+      "ctf": 15,
+      "final_island": 15,
+      "terraformer": 13,
+      "acid_pool": 11,
+      "sand_hole": 10,
+      "final_cave": 9,
+      "pistons": 7,
+      "goo": 7,
+      "cataclysm": 4,
+      "ignore": 2,
+      "heli": 2,
+      "lasers": 1,
+      "ae_trailer": 1,
+      "flooding": 1,
+      "belt": 1,
+      "thumper": 1,
+      "trailer": 1
+    },
+    "map_tag_selection_function_found": true
+  },
+  "checks": "PASS: archive offsets/file size, selected configuration fields, all level headers readable, all ITB map dimensions readable, mission selection source present"
+}
