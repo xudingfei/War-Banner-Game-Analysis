@@ -1,0 +1,20 @@
+Start testing: Sep 13 00:23 中国标准时间
+----------------------------------------------------------
+1/1 Testing: MapGenerationAndOpeningProof
+1/1 Test: MapGenerationAndOpeningProof
+Command: "E:/War-Banner-Game-Analysis/Cpp/build/Release/mapgen_tests.exe"
+Directory: E:/War-Banner-Game-Analysis/Cpp/build
+"MapGenerationAndOpeningProof" start time: Sep 13 00:23 中国标准时间
+Output:
+----------------------------------------------------------
+PASS: 1000 seeds generated, deterministic and replay-certified; unique grids=1000 total_attempts=6104 max_attempts=37 max_proof_nodes=73
+weight_counts=79933,15052,5015 templates=447,259,294
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Passed.
+"MapGenerationAndOpeningProof" end time: Sep 13 00:23 中国标准时间
+"MapGenerationAndOpeningProof" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 00:23 中国标准时间

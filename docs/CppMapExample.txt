@@ -1,0 +1,14 @@
+seed=2047 template=0 initial_grid_threat=1 proof_nodes=3
+~,a"",,~
+,,#",,,,
+"Bc,,B,,
+,,b,,,,,
+,,,B",#,
+,B3,,,B,
+,,",,#..
+~,2,.,1~
+Legend: 1-3 players; a-c enemies; B building; # mountain; ~ water; , grass; quote tall grass
+player 2 move (2,4) shoot b
+player 3 move (2,3) shoot c
+Proof applies only to the documented reference combat model.
+attempts=4
